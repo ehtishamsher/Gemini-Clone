@@ -1,8 +1,12 @@
-# React + Vite
+This is the Gemini clone Project 
+In this project we have use React js in Frontend and Generative ai for the response of the given prompt
+Features:
+This is a responsive website
+The use gets the response throught A.I
+Recent prompts also available 
+New chat is available
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+How to use this project
+1)Open the terminal of the desired project
+2)write npm i
+3)write npm run dev
